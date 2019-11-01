@@ -18,4 +18,4 @@
 
 
 
-cat.jpeg
+cat.jpg
